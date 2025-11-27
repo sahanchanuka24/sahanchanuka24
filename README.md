@@ -42,6 +42,9 @@
   <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer" style="margin-left:8px;">
   <img src="https://cdn.simpleicons.org/csharp" width="40" height="40" alt="C# logo" />
 </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" width="40" height="40"/>
+</a>
 </p>
 
 
