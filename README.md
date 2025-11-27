@@ -39,6 +39,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
   <a href="https://postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer" style="margin-left:8px;">
+  <img src="https://cdn.simpleicons.org/csharp" width="40" height="40" alt="C# logo" />
+</a>
 </p>
 
 
